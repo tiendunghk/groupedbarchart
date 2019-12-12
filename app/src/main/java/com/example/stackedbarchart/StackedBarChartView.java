@@ -66,7 +66,7 @@ public class StackedBarChartView extends View {
 
 
 
-
+ //////////
 
         for (int i = 0; i < arr.size(); i+=soBar) {
             //System.out.println("phan tu thu " + i + " la: " + arr.get(i));
